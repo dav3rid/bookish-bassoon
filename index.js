@@ -4,3 +4,5 @@ function myWonderfulFunc() {
   const name = 'dave';
   console.log(name);
 }
+
+module.exports = myWonderfulFunc;
